@@ -1,0 +1,15 @@
+Here's a short script for each slide, about 2–3 minutes in total.
+
+**Slide 1: The day the internet's foundations cracked 🏚️**
+"Picture our 6 websites as 6 flats. Drupal is the flat: the furniture, the doors, the locks. PHP is the building it sits in. In October, someone found a crack in the foundations of the building. Not in our flat, but in the building that holds up about 70% of the internet. Through that crack, any stranger could walk in. No key, no knocking. They could raid the fridge and change the locks. And the instructions for using the crack leaked online before most landlords had their tools ready."
+
+**Slide 2: Many companies closed for days. We closed for a few hours.**
+"So, panic. Many companies did the only thing they could: they shut the building. Websites went offline for days, and even a government cybersecurity site went down. Yes, the cybersecurity site. 🙃 Why couldn't they just fix it? Their software was so old the repair kit didn't fit, so they had to rebuild first and repair after. We did two things. We filled the crack by applying the security patch on the PHP servers. And while we were at it, we redecorated: all 6 sites are now on the latest Drupal version. We put up a 'back soon' sign for a few hours while the workers were inside, and then all 6 sites were back and protected."
+
+**Slide 3: Boring updates saved the day 🦷**
+"Why was it so easy for us? Not luck. For months, we've been doing the boring stuff: small updates, sprint after sprint, the kind of work nobody claps for. It's like going to the dentist every six months. Boring, until the day your neighbour needs three root canals and you just need a quick polish. Because our sites were up to date, the repair kit fitted first time. That's why we were down for a few hours instead of days."
+
+**Slide 4: A special thanks 💚**
+"None of this happened by magic. A big thank you to the keepers, who kept everything up to date sprint after sprint. To the fixers, who patched PHP and upgraded Drupal when it mattered. And to everyone who tested, reviewed and supported along the way. [Names.] Thank you all."
+
+The same text is already in each slide's speaker notes, so you can read it from presenter view.
